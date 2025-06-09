@@ -15,7 +15,7 @@ This project involves a comprehensive analysis of a real-world dataset to answer
 
 - **Dataset Name**: Family Income and Expenditure Survey 2012 Vol 1
 - **Source**: Philippine Statistics Authority
-- **Description**: [Brief description of the dataset, including its structure, number of observations, and attributes]
+- **Description**: The dataset contains anonymized microdata on household income from various sources (such as salaries, businesses, and remittances), categorized expenditures (including food, housing, education, health, and utilities), as well as demographic and geographic variables like region and urban/rural classification. Household characteristics such as household size and number of earners are also included.
 
 ## Research Question
 
