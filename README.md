@@ -19,7 +19,7 @@ This project involves a comprehensive analysis of a real-world dataset to answer
 
 ## Research Question
 
-[State your general research question here. Ensure it is broad enough to explore multiple aspects of the dataset and feasible given the data available.]
+What are the key differences in expenditure allocation (e.g., food, education, utilities) across income groups?
 
 ## Phase 1 Deliverables
 
