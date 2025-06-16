@@ -9,7 +9,7 @@ This project involves a comprehensive analysis of a real-world dataset to answer
 - AGUARIN, Trish Ann Danielle C.
 - CABATO, Marxandrea Diane G.
 - QUIJANO, Jan Philip Alexandre
-- MARCELO, Chrystel Anne
+- MARCELO, Chrystel Anne L.
 
 ## Dataset
 
