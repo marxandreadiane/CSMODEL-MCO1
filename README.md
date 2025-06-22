@@ -45,16 +45,5 @@ What are the key differences in expenditure allocation (e.g., food, education, u
 
 ## Submission
 
-- **Deadline**: June 20, 2025 (Friday), 11:59 PM
+- **Deadline**: June 23, 2025 (Monday), 8:00 AM
 - **Format**: Jupyter Notebook with Markdown explanations and executable code.
-
-## Academic Honesty and AI Use
-
-- All code and text must be original or properly attributed.
-- Generative AI tools may be used for code assistance only, with disclosure as per the project guidelines.
-
-## Next Steps (Phase 2)
-
-- Statistical inference and data mining techniques.
-- Finalizing insights and conclusions.
-- Poster submission.
