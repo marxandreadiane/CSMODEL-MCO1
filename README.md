@@ -1,8 +1,10 @@
-# CSMODEL Machine Project - Phase 1
+# CSMODEL Machine Project
 
 ## Project Overview
 
-This project involves a comprehensive analysis of a real-world dataset to answer a research question through data preprocessing, exploratory data analysis (EDA), and statistical inference. The project is divided into two phases, with Phase 1 focusing on dataset description, data cleaning, research question formulation, and EDA.
+This project involves a comprehensive analysis of a real-world dataset to answer a research question through data preprocessing, exploratory data analysis (EDA), and statistical inference. 
+
+The project is divided into two phases: Phase 1 focuses on the dataset description, data cleaning, research question formulation, and EDA. Phase 2 focuses on the data mining techniques, preprocessing techniques, statistical inference, and conclusions.
 
 ## Group Members
 
@@ -19,7 +21,7 @@ This project involves a comprehensive analysis of a real-world dataset to answer
 
 ## Research Question
 
-What are the key differences in expenditure allocation (e.g., food, education, utilities) across income groups?
+How can household spending behaviors be grouped based on expenditure allocation patterns, and how do these behavioral clusters relate to income levels?
 
 ## Phase 1 Deliverables
 
@@ -37,13 +39,30 @@ What are the key differences in expenditure allocation (e.g., food, education, u
 3. **Exploratory Data Analysis (EDA)**:
    - At least three EDA questions with corresponding numerical summaries and visualizations.
 
+## Phase 2 Deliverables
+
+1. **Data Mining**:
+
+   - Applying data mining techniques.
+   - Preprocessing techniques to transform the data into appropriate representations.
+
+2. **Statistical Inference**:
+
+   - At least three statistical tests must be performed to confirm or disprove the conclusions generated.
+   - Interpretation of the results in the context of the research question.
+
+3. **Insights and Conclusions**:
+
+   - Must include a summary of the key findings and insights that were generated from the project.
+   - Provide a cohesive data narrative.
+
 ## Tools and Technologies
 
 - Python
 - Jupyter Notebook
-- Libraries: Pandas, NumPy, Matplotlib, Seaborn, etc.
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, etc.
 
 ## Submission
 
-- **Deadline**: June 23, 2025 (Monday), 8:00 AM
+- **Deadline**: July 28, 2025 (Monday), 8:00 AM
 - **Format**: Jupyter Notebook with Markdown explanations and executable code.
